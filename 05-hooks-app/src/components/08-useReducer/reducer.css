@@ -1,0 +1,26 @@
+body{
+    padding: 50px;
+}
+
+.hola{
+    background-color: rgb(4, 4, 4);
+}
+
+p{
+    cursor: pointer;
+    margin: 0;
+}
+
+.list-group-item {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.complete{
+    text-decoration: line-through;
+}
+
+.btn-block{
+    width: 100%;
+}
